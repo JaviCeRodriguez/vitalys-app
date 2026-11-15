@@ -1,6 +1,9 @@
 # Vitalys App — prototipo mockeado (Vite + React + TypeScript)
 
-Prototipo local del MVP descrito en el [informe integrador de Vitalys](static/Vitalys_TPI_Informe_Integrador.pdf) y en el [TPI de Metodología de Sistemas I](../README.md).
+Prototipo local del MVP descrito en el [informe integrador de Vitalys](static/Vitalys_TPI_Informe_Integrador.pdf).
+
+- **GitHub**: https://github.com/JaviCeRodriguez/vitalys-app
+- **Producción (Vercel)**: https://vitalys-app-beryl.vercel.app
 
 No hay backend: todo vive en `localStorage` con datos semilla.
 
